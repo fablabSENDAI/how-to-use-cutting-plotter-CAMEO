@@ -1,8 +1,11 @@
 ---
 layout: default
-title: readme
-nav_exclude: true
+title: 00.Introduction
+nav_order: 1
 ---
+
+# 00.Introduction
+<br><br>
 
 [Silhouette CAMEO](https://silhouettejapan.jp/)（現在は廃盤）の使用マニュアルです。 <br>
 FabLab SENDAI - FLATでの使用方法をベースにまとめられた内容なので、<br>
